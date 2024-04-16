@@ -1,0 +1,15 @@
+.navbar-brand span:first-child  {
+    font-weight: normal;
+}
+
+.navbar-brand span:last-child {
+    font-weight: bold;
+}
+
+.lang {
+    margin-left: 1in;
+}
+
+.nav-link{
+    color: black;
+}
